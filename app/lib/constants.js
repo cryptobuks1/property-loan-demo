@@ -1,0 +1,6 @@
+module.exports = Object.freeze({
+    BANK_ACCOUNT: '0x75E50BF2E9E657435066530c0212509f2E4F6304',
+    INSURER_ACCOUNT: '0x3aa57eA37555770327E947ebF74511b321743a4D',
+    IRS_ACCOUNT: '0xE5431D196946F5B83E04384EA33bAfb0bB49bB1C',
+    KYC_SERVICE: 'https://serverzpfglu3c-dev-machine-server-8080.morpheuslabs.io/',
+});
